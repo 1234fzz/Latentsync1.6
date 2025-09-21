@@ -1,0 +1,3 @@
+checkpoints/latentsync_unet.pt           5368709120  # 5 GB
+checkpoints/whisper/tiny.pt               79691776   # 76 MB
+checkpoints/face-parse-bisent-79999.pth   167772160  # 160 MB
